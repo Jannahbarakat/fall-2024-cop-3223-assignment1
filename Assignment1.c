@@ -1,3 +1,10 @@
+//Jannah Barakat
+//Ja515740
+//September 8, 2024
+//COP 3223 - Introduction to C Programming
+//Assignment 1
+//Professor Juan Parra
+
 #include <stdio.h>
 #include <math.h>
 
